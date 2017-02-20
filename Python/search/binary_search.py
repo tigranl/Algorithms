@@ -19,4 +19,3 @@ def search(values, target):
             min = mid + 1
         else:
             return mid
-    return
