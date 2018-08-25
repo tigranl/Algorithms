@@ -1,4 +1,4 @@
-def lcg(a, b, m, k):
+def lcg(a: int, b: int, m: int, k: int):
     x = 0
     i = 0
     print(x)
